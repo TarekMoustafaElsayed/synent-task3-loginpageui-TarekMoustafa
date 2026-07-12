@@ -44,3 +44,7 @@ Colors are controlled via CSS custom properties in `:root` inside `style.css`:
 --darker: #05050c;
 --light: rgba(255, 255, 255, 0.9);
 ```
+
+## 🔗 Live Demo
+
+https://tarekmoustafaelsayed.github.io/synent-task3-loginpageui-TarekMoustafa/
